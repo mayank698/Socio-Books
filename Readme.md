@@ -26,7 +26,7 @@ Socio Books is a social media web application built with Django. It allows users
 
 1. **Clone the repository**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/mayank698/Socio-Books.git
     cd Social\ Media
     ```
 
